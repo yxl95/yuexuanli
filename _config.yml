@@ -16,11 +16,12 @@ minimal: false             # use a dark header
 # Menu
 
 navigation:                # accepts {file, title, url, icon, sidebaricon}
+  - {file: "index2.html",title: "About me"}
   - {file: "index.html",title: "Research"}
   - {file: "README.md", title: "Publication"}
 
 external:                  # shows a footer with social links - for available icons see fontawesome.com/icons
-  - {title: Google Scholar, icon: envelope, url: "mailto:niklasbuschmann@users.noreply.github.com"}
+  - {title: Google Scholar, icon: envelope, url: "https://scholar.google.com/citations?user=ZpPKaNoAAAAJ&hl=en"}
   - {title: Github, icon: github, url: "https://github.com/yxl95/"}
   - {title: Twitter, icon: twitter, url: "https://twitter.com/yuexuan_li"}
 
