@@ -1,9 +1,9 @@
 ---
-title: "Welcome to Jekyll"
+title: "Research"
 layout: post
 ---
 
-You’ll find this post in your `_posts` directory. Go ahead and edit it and re-build the site to see your changes. You can rebuild the site in many different ways, but the most common way is to run `jekyll serve`, which launches a web server and auto-regenerates your site when a file is updated.
+The early-life social experiences of an infant with the mother can cast profound and enduring effects on the developing brain. Social interactions with the dam result in sensory stimuli of the infant that shape the maturation of neural circuits. Yet, the neural substrates encoding the experiences of the infant with the dam remain largely unknown. In this project, we identify that somatostatin neurons in the zona incerta (ZISST neurons) respond to social interactions with the dam in infant mice. 
 
 
 To add new posts, simply add a file in the `_posts` directory that follows the convention `YYYY-MM-DD-name-of-post.ext` and includes the necessary front matter. Take a look at the source for this post to get an idea about how it works.
