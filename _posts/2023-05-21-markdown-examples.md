@@ -3,7 +3,7 @@ title:  "Publications"
 layout: post
 ---
 
-## Publications during udergraduate research:
+## Publications during undergraduate research:
 [An optimized acetylcholine sensor for monitoring in vivo cholinergic activity][nature-methods]
 
 [A Genetically Encoded Protein Polymer for Uranyl Binding and Extraction Based on the SpyTag–SpyCatcher Chemistry][iGEM]
