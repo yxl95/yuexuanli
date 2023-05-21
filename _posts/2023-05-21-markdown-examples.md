@@ -3,12 +3,16 @@ title:  "Publications"
 layout: post
 ---
 
-Undergradute 
-[Optimized Genetically encoded Acetylcholine Sencors][nature-methods] for more info on how to get the most out of Jekyll. File all bugs/feature requests at [Jekyll’s GitHub repo][jekyll-gh]. If you have questions, you can ask them on [Jekyll Talk][jekyll-talk].
+Publications during udergraduate research:
+[An optimized acetylcholine sensor for monitoring in vivo cholinergic activity][nature-methods] 
+[A Genetically Encoded Protein Polymer for Uranyl Binding and Extraction Based on the SpyTag–SpyCatcher Chemistry][iGEM]
+[Activation of the anti-aging and cognition-enhancing gene klotho by CRISPR-dCas9 transcriptional effector complex][Klotho1]
+[Identification of the cleavage sites leading to the shed forms of human and mouse anti-aging and cognition-enhancing protein Klotho][Klotho2]
 
 [nature-methods]: https://www.nature.com/articles/s41592-020-0953-2
-[jekyll-gh]:   https://github.com/jekyll/jekyll
-[jekyll-talk]: https://talk.jekyllrb.com/
+[iGEM]: https://pubs.acs.org/doi/abs/10.1021/acssynbio.8b00223
+[Klotho1]: https://link.springer.com/article/10.1007/s12031-017-1011-0
+[Klotho2]: https://journals.plos.org/plosone/article?id=10.1371/journal.pone.0226382
 
 
 ## Heading Two (h2)
