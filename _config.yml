@@ -1,10 +1,10 @@
 title: "Yuexuan Li's Personal Website"
 author: "Yuexuan Li"
-description: "Yale University"
+description: ""
 permalink: /:title/
 lang: "en"
 excerpt_separator: "\n\n\n"
-date_format: "%B %d, %Y"
+date_format: ""
 
 # Layout
 
