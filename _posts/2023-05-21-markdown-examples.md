@@ -3,11 +3,14 @@ title:  "Publications"
 layout: post
 ---
 
-## Publications during udergraduate research: (h3)
->[An optimized acetylcholine sensor for monitoring in vivo cholinergic activity][nature-methods] 
->[A Genetically Encoded Protein Polymer for Uranyl Binding and Extraction Based on the SpyTag–SpyCatcher Chemistry][iGEM]
->[Activation of the anti-aging and cognition-enhancing gene klotho by CRISPR-dCas9 transcriptional effector complex][Klotho1]
->[Identification of the cleavage sites leading to the shed forms of human and mouse anti-aging and cognition-enhancing protein Klotho][Klotho2]
+## Publications during udergraduate research:
+[An optimized acetylcholine sensor for monitoring in vivo cholinergic activity][nature-methods]
+
+[A Genetically Encoded Protein Polymer for Uranyl Binding and Extraction Based on the SpyTag–SpyCatcher Chemistry][iGEM]
+
+[Activation of the anti-aging and cognition-enhancing gene klotho by CRISPR-dCas9 transcriptional effector complex][Klotho1]
+
+[Identification of the cleavage sites leading to the shed forms of human and mouse anti-aging and cognition-enhancing protein Klotho][Klotho2]
 
 [nature-methods]: https://www.nature.com/articles/s41592-020-0953-2
 [iGEM]: https://pubs.acs.org/doi/abs/10.1021/acssynbio.8b00223
