@@ -4,13 +4,13 @@ layout: post
 ---
 
 ## Publications during undergraduate research:
-[An optimized acetylcholine sensor for monitoring in vivo cholinergic activity][nature-methods]
+[An optimized acetylcholine sensor for monitoring in vivo cholinergic activity, Nature Methods,2020][nature-methods]
 
-[A Genetically Encoded Protein Polymer for Uranyl Binding and Extraction Based on the SpyTag–SpyCatcher Chemistry][iGEM]
+[A Genetically Encoded Protein Polymer for Uranyl Binding and Extraction Based on the SpyTag–SpyCatcher Chemistry,ACS Synth. Biol., 2018][iGEM]
 
-[Activation of the anti-aging and cognition-enhancing gene klotho by CRISPR-dCas9 transcriptional effector complex][Klotho1]
+[Activation of the anti-aging and cognition-enhancing gene klotho by CRISPR-dCas9 transcriptional effector complex, J Molec Neurosci, 2018][Klotho1]
 
-[Identification of the cleavage sites leading to the shed forms of human and mouse anti-aging and cognition-enhancing protein Klotho][Klotho2]
+[Identification of the cleavage sites leading to the shed forms of human and mouse anti-aging and cognition-enhancing protein Klotho, PLoS ONE, 2020][Klotho2]
 
 [nature-methods]: https://www.nature.com/articles/s41592-020-0953-2
 [iGEM]: https://pubs.acs.org/doi/abs/10.1021/acssynbio.8b00223
@@ -22,11 +22,11 @@ layout: post
 
 ### GACh sensors
 
-This work was done during my undergraduate thesis research with Professor Yulong Li at Peking University. My goal was to optimize the performance of the origanl GACh sensor. With structure-directed mutagenesis and cell-based optical screening, I found an improved version of GACh sensors. With collaborations with other labs, we further characterized its properties in multiple preparations. GACh sensor is widely used in the neuroscience community and leading to new discoveries.   
+This work was done during my undergraduate thesis research with Professor Yulong Li at Peking University in 2017. My goal was to optimize the performance of the origanl GACh (Genetically encoded Acetylcholine) sensor. With structure-directed mutagenesis and cell-based optical screening, I found an improved version of GACh sensors (GACh 3.0). With collaborations with other labs, we further characterized its properties in multiple preparations. GACh sensor is widely used in the neuroscience community and leading to new discoveries.   
 
 ### Uranium Reaper
 
-What do you get when you cross an insomniac, an unwilling agnostic and a dyslexic?
+I was a team member of iGEM (international Genetically Engineered Machine) reperesenting Peking University in 2016. We constructed a novel functional biomaterial consisting of multiple functional protein modules. This material is designed to be produced and secreted by bacteria, and self-assembled to form a polymer network. In combination with a specific Super Uranyl-binding Protein, it obtains the ability to adsorb uranyl ions. After very short contacting with polluted water, the uranyl-laden biomaterial, which also contains a monomeric streptavidin module, could be easily cleared using biotinylated magnetic beads. This experience was the first time that I 
 
 ### Klotho
 
