@@ -18,7 +18,7 @@ layout: post
 [Klotho2]: https://journals.plos.org/plosone/article?id=10.1371/journal.pone.0226382
 
 
-## Stories behind each paper
+## Research experiences behind the publication
 
 ### GACh sensors
 
