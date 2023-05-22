@@ -10,11 +10,13 @@ Yuexuan is a PhD candidate, working with Professor Marcelo Dietrich, at Yale Uni
 
 ## Activities
 
-Board member of Women in Science at Yale (2021-2022) 
+Board member of [Women in Science at Yale][WISAY] (2021-2022) 
 
 Committee member of DEI committee of Department of Comparative Medicine (2020-2023)
 
 Chair of professional development subcommittee of Yale Wu Tsai Student and Postdoc committee (2022-2023)
+
+[WISAY]https://wisay.sites.yale.edu/
 
 ## Teaching and Mentorship
 
