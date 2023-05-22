@@ -4,7 +4,7 @@ layout: post
 ---
 
 ## Publications during undergraduate research:
-[An optimized acetylcholine sensor for monitoring in vivo cholinergic activity, Nature Methods,2020][nature-methods]
+[An optimized acetylcholine sensor for monitoring in vivo cholinergic activity, Nature Methods, 2020][nature-methods]
 
 [A Genetically Encoded Protein Polymer for Uranyl Binding and Extraction Based on the SpyTag–SpyCatcher Chemistry,ACS Synth. Biol., 2018][iGEM]
 
