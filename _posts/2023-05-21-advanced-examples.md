@@ -4,6 +4,8 @@ mathjax: true
 layout: post
 categories: media
 ---
+![YL](yuexuan2_square.jpg)
+
 <p>
   <img src="../assets/yuexuan2_square.jpg" alt="Yuexuan">
 </p>
