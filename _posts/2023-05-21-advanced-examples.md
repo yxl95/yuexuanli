@@ -16,10 +16,8 @@ Yuexuan is a PhD candidate, working with Professor Marcelo Dietrich, at Yale Uni
 
 
 
-<p>
-  <img src="yuexuanli/assets/yuexuan2_square.jpg" alt="Yuexuan">
-</p>
-
+![Img](/yuexuanli/assets/yuexuan2_square.jpg)
+ 
 ## Activities
 
 Board member of [Women in Science at Yale][WISAY] (2021-2022) 
