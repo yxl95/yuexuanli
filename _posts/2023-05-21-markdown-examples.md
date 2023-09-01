@@ -25,6 +25,7 @@ layout: post
 This work was done during my undergraduate thesis research with Professor Yulong Li at Peking University in 2017. My goal was to optimize the performance of the origanl GACh (Genetically encoded Acetylcholine) sensor. With structure-directed mutagenesis and cell-based optical screening, I found an improved version of GACh sensors (GACh 3.0). With collaborations with other labs, we further characterized its properties in multiple preparations. GACh sensor is widely used in the neuroscience community and leading to new discoveries.   
 
 ![GACh](/yuexuanli/assets/gach.jpg)
+Figure from the paper
 
 ### Uranium Reaper
 
@@ -36,6 +37,7 @@ This experience brought me the joy of doing research, coming up with ideas, desi
   <img src="https://static.igem.org/mediawiki/2016/3/36/T--Peking--images_Uranium_Reaper04.png" alt="image" style="width:300px;height:auto;">
 </p>
 
-
 ### Klotho
+
+Kloth plays a crucial role in human health. It serves as a powerful regulator of aging and numerous physiological processes. Klotho infuences kidney function, insulin sensitivity, antioxidant activity, and cellular stress responses, all of which are pivotal for longevity. Its deficiency is linked to various age-related diseases, such as cardiovascular issues and neurodegenerative disorders. Understanding and harnessing Klotho's potential may hold the key to extending healthy lifespans and combating age-related ailments. During my summer research at Boston Universiyt, I identified the cleavage site of mouse Klotho. Moreover, I applied CRISPR-dCas9 activation system to enhance the transcription of klotho gene. These results contribute to our understanding of Klotho.
 
