@@ -14,8 +14,6 @@ Yuexuan is a PhD candidate, working with Professor Marcelo Dietrich, at Yale Uni
 
 
 
-
-![Img](/yuexuanli/assets/yuexuan2_square.jpg)
  
 ## Activities
 
