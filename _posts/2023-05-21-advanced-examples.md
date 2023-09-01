@@ -5,18 +5,14 @@ layout: post
 categories: media
 ---
 <p>
-  <img src="/assets/yuexuan2_square.jpg" alt="Yuexuan">
-</p>
-
-
-<p>
-  <img src="../assets/yuexuan2_square.jpg" alt="Yuexuan">
+  <img src="assets/yuexuan2_square.jpg" alt="Yuexuan">
 </p>
 
 Yuexuan is a PhD candidate, working with Professor Marcelo Dietrich, at Yale University. Her research focus on developmental neuroscience, more specifically, how the infant brain integrates early-life social experiences. Coming from Kunming, China, as a first-generation in STEM, she has been fortunate to receive mentorship from inspiring and supporting scientists throughout her career. With the acknowledgement of the importance of good support, Yuexuan is commmitted to advocate for women in science and promote inclusiveness in science.
 
-
-
+<p>
+  <img src="../assets/yuexuan2_square.jpg" alt="Yuexuan">
+</p>
 
 
 
