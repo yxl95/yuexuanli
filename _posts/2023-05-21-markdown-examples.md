@@ -24,6 +24,8 @@ layout: post
 
 This work was done during my undergraduate thesis research with Professor Yulong Li at Peking University in 2017. My goal was to optimize the performance of the origanl GACh (Genetically encoded Acetylcholine) sensor. With structure-directed mutagenesis and cell-based optical screening, I found an improved version of GACh sensors (GACh 3.0). With collaborations with other labs, we further characterized its properties in multiple preparations. GACh sensor is widely used in the neuroscience community and leading to new discoveries.   
 
+![GACh](/yuexuanli/assets/gach.jpg)
+
 ### Uranium Reaper
 
 I was a team member of iGEM (international Genetically Engineered Machine) reperesenting Peking University in 2016. We constructed a novel functional biomaterial consisting of multiple functional protein modules. This material is designed to be produced and secreted by bacteria, and self-assembled to form a polymer network. In combination with a specific Super Uranyl-binding Protein, it obtains the ability to adsorb uranyl ions. After very short contacting with polluted water, the uranyl-laden biomaterial, which also contains a monomeric streptavidin module, could be easily cleared using biotinylated magnetic beads. Our work was rewared Best Environment prize.
