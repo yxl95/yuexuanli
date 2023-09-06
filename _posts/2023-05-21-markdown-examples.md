@@ -6,7 +6,7 @@ layout: post
 ## Publications during undergraduate research:
 [An optimized acetylcholine sensor for monitoring in vivo cholinergic activity, Nature Methods, 2020][nature-methods]
 
-[A Genetically Encoded Protein Polymer for Uranyl Binding and Extraction Based on the SpyTag–SpyCatcher Chemistry,ACS Synth. Biol., 2018][iGEM]
+[A Genetically Encoded Protein Polymer for Uranyl Binding and Extraction Based on the SpyTag–SpyCatcher Chemistry, ACS Synth. Biol., 2018][iGEM]
 
 [Activation of the anti-aging and cognition-enhancing gene klotho by CRISPR-dCas9 transcriptional effector complex, J Molec Neurosci, 2018][Klotho1]
 
@@ -34,8 +34,9 @@ I was a team member of iGEM (international Genetically Engineered Machine) reper
 This experience brought me the joy of doing research, coming up with ideas, designing and performing experiments, and discussing the results keep me motiviated. Working with a team also inspired me a lot, the team spirit we held to complete the project and to present our work at the competition really supported and strengthed me.
 
 <p>
-  <img src="https://static.igem.org/mediawiki/2016/3/36/T--Peking--images_Uranium_Reaper04.png" alt="image" style="width:500px;height:auto;">
+  <img src="https://static.igem.org/mediawiki/2016/3/36/T--Peking--images_Uranium_Reaper04.png" alt="image" style="width:600px;height:auto;">
 </p>
+Design of the Uranium Reaper
 
 ### Klotho
 
