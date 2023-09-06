@@ -25,7 +25,7 @@ layout: post
 This work was done during my undergraduate thesis research with Professor Yulong Li at Peking University in 2017. My goal was to optimize the performance of the origanl GACh (Genetically encoded Acetylcholine) sensor. With structure-directed mutagenesis and cell-based optical screening, I found an improved version of GACh sensors (GACh 3.0). With collaborations with other labs, we further characterized its properties in multiple preparations. GACh sensor is widely used in the neuroscience community and leading to new discoveries.   
 
 ![GACh](/yuexuanli/assets/gach.png)
-Figure from the paper
+Expression of GACh 3.0 in cultured neurons
 
 ### Uranium Reaper
 
