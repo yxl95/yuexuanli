@@ -5,12 +5,16 @@ layout: post
 
 ## Publications during undergraduate research:
 [An optimized acetylcholine sensor for monitoring in vivo cholinergic activity, Nature Methods, 2020][nature-methods]
+######Authors: Jing, M., Li, Y.*, Zeng, J., ... Li, Y. 
 
 [A Genetically Encoded Protein Polymer for Uranyl Binding and Extraction Based on the SpyTag–SpyCatcher Chemistry, ACS Synth. Biol., 2018][iGEM]
+######Authors: Yang, X., Wei, J., ..., Li, Y.*, ... Qian, L.
 
 [Activation of the anti-aging and cognition-enhancing gene klotho by CRISPR-dCas9 transcriptional effector complex, J Molec Neurosci, 2018][Klotho1]
+######Authors: Chen C.Di, Zeldich E, Li, Y.*, ... Abraham, C. R.
 
 [Identification of the cleavage sites leading to the shed forms of human and mouse anti-aging and cognition-enhancing protein Klotho, PLoS ONE, 2020][Klotho2]
+######Authors: Chen, C. Di, Li, Y.*, ... Abraham, C. R.
 
 [nature-methods]: https://www.nature.com/articles/s41592-020-0953-2
 [iGEM]: https://pubs.acs.org/doi/abs/10.1021/acssynbio.8b00223
