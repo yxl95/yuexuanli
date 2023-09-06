@@ -34,7 +34,7 @@ I was a team member of iGEM (international Genetically Engineered Machine) reper
 This experience brought me the joy of doing research, coming up with ideas, designing and performing experiments, and discussing the results keep me motiviated. Working with a team also inspired me a lot, the team spirit we held to complete the project and to present our work at the competition really supported and strengthed me.
 
 <p>
-  <img src="https://static.igem.org/mediawiki/2016/3/36/T--Peking--images_Uranium_Reaper04.png" alt="image" style="width:300px;height:auto;">
+  <img src="https://static.igem.org/mediawiki/2016/3/36/T--Peking--images_Uranium_Reaper04.png" alt="image" style="width:500px;height:auto;">
 </p>
 
 ### Klotho
