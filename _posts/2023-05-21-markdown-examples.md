@@ -33,7 +33,7 @@ Expression of GACh 3.0 in cultured neurons
 
 ### Uranium Reaper
 
-I was a team member of iGEM (international Genetically Engineered Machine) reperesenting Peking University in 2016. We constructed a novel functional biomaterial consisting of multiple functional protein modules. This material is designed to be produced and secreted by bacteria, and self-assembled to form a polymer network. In combination with a specific Super Uranyl-binding Protein, it obtains the ability to adsorb uranyl ions. After very short contacting with polluted water, the uranyl-laden biomaterial, which also contains a monomeric streptavidin module, could be easily cleared using biotinylated magnetic beads. Our work was rewared Best Environment prize.
+I was a team member of iGEM (international Genetically Engineered Machine) representing Peking University in 2016. We constructed a novel functional biomaterial consisting of multiple functional protein modules. This material is designed to be produced and secreted by bacteria, and self-assembled to form a polymer network. In combination with a specific Super Uranyl-binding Protein, it obtains the ability to adsorb uranyl ions. After very short contacting with polluted water, the uranyl-laden biomaterial, which also contains a monomeric streptavidin module, could be easily cleared using biotinylated magnetic beads. Our work was rewared Best Environment prize.
 
 This experience brought me the joy of doing research, coming up with ideas, designing and performing experiments, and discussing the results keep me motiviated. Working with a team also inspired me a lot, the team spirit we held to complete the project and to present our work at the competition really supported and strengthed me.
 
